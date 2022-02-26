@@ -1,3 +1,7 @@
+[![Standard](https://img.shields.io/badge/c%2B%2B-11/14/17/20-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization)
+[![License](https://img.shields.io/badge/license-BSL-blue.svg)](http://www.boost.org/LICENSE_1_0.txt)
+[![CI](https://img.shields.io/github/workflow/status/indev29/cyclic-iterator/CI/master)](https://github.com/indev29/cyclic-iterator/actions/workflows/ci.yml)
+
 # cyclic-iterator
 C++ iterator adapter created from two iterators (`begin`, `end`) that jumps to `begin` when `end` is reached.
 
